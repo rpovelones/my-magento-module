@@ -1,6 +1,6 @@
 # My Custom Magento Module
 
-This module should be dropped in `app/code/`.
+This module should be dropped in `app/code/`. Vendor folder should be named `Robert` (i.e. `app/code/Robert`).
 
 ## Routes
 
