@@ -1,0 +1,11 @@
+{
+  "name": "Robert/MyModule",
+  "autoload": {
+    "psr-4": {
+      "Robert\\MyModule\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}
